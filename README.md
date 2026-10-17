@@ -1,0 +1,2 @@
+# synmyQ
+SMC
